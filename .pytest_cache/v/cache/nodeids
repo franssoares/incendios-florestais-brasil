@@ -1,7 +1,0 @@
-[
-  "tests/test_preprocess.py::test_colunas_esperadas",
-  "tests/test_preprocess.py::test_estado_invalido",
-  "tests/test_preprocess.py::test_numero_linhas_constante",
-  "tests/test_preprocess.py::test_sem_valores_nulos",
-  "tests/test_preprocess.py::test_tipos_de_dados"
-]
