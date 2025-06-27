@@ -1,0 +1,10 @@
+# pyproject.toml (opcional para configurar como pacote)
+[project]
+name = "projeto"
+version = "0.1.0"
+dependencies = [
+    "pandas>=1.5",
+    "pytest",
+    "seaborn",
+    "pandera"
+]
