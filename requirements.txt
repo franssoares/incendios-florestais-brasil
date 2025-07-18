@@ -1,0 +1,9 @@
+# requirements.txt
+
+pandas>=1.5
+seaborn
+plotly>=5.0
+streamlit>=1.10
+pandera
+scikit-learn
+pytest

@@ -1,0 +1,15 @@
+# pyproject.toml
+
+[project]
+name = "analise_incendios_brasil"
+version = "0.1.0"
+description = "Dashboard para análise de incêndios florestais no Brasil com previsão via ML."
+dependencies = [
+    "pandas>=1.5",
+    "seaborn",
+    "plotly>=5.0",
+    "streamlit>=1.10",
+    "pandera",
+    "scikit-learn",
+    "pytest"
+]

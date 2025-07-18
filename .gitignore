@@ -1,0 +1,48 @@
+# Arquivos de ambiente e configurações locais
+.env
+.venv/
+venv/
+env/
+
+# Arquivos de IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+__pycache__/
+*.py[cod]
+
+# Dados sensíveis ou grandes
+data/raw/  # Se tiver dados brutos pesados
+*.csv      # Exceto se forem pequenos/sample
+*.xlsx
+*.feather
+*.parquet
+
+# Streamlit
+.streamlit/  # Configurações locais do Streamlit
+
+# Logs e cache
+*.log
+.cache/
+.pytest_cache/
+
+# Arquivos gerados pelo sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de Jupyter Notebook (se tiver)
+.ipynb_checkpoints/
+*.ipynb
+
+# Pacotes Python instalados
+*.egg-info/
+dist/
+build/
+
+#imgs
+output/
+reports/
+models/
+data/test.csv
+tests/
