@@ -605,8 +605,8 @@ def main():
             "Análise Temporal": "", 
             "Distribuição Geográfica": "",
             "Padrões Sazonais": "",
+            "Modelo de Previsão": "",
             "Dados Completos": "",
-            "Modelo de Previsão": ""  # Nova página adicionada
         }
         
         for page, icon in pages.items():
